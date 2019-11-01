@@ -12,7 +12,7 @@ This will install homebrew on your computer. Read more about why we needed here 
 We will be using this guild [HERE](https://www.dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using-homebrew "HERE") to install both node and NPM.
 
 
-###Additional Resorces.
+### Additional Resorces.
 [Node Documentation](https://nodejs.org/en/docs/ "Node Documentation")
 [NPM Documentation](https://docs.npmjs.com/http:// "NPM Documentation")
 
