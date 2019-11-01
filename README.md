@@ -1,10 +1,18 @@
 # Introduction-Node-NPM
 
 ## Install brew
-[Initial set up for Brew](https://brew.sh/ "Initial set up for Brew")
+
+
+In your terminal Type the following.
+```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+This will install homebrew on your computer. Read more about why we needed here [Initial set up for Brew](https://brew.sh/ "Initial set up for Brew")
+
 
 ## Install Node and NPM
-[Install with Brew](https://www.dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using-homebrew "Install with Home brew")
+We will be using this guild [HERE](https://www.dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using-homebrew "HERE") to install both node and NPM.
+
+
+###Additional Resorces.
 [Node Documentation](https://nodejs.org/en/docs/ "Node Documentation")
 [NPM Documentation](https://docs.npmjs.com/http:// "NPM Documentation")
 
