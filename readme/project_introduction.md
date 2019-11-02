@@ -17,3 +17,9 @@ Bonus set up google oAuth! [API DOC](https://developers.google.com/identity/prot
 ### Front End
 * [React](https://reactjs.org/docs/getting-started.html "React")
 * [socket.io](https://socket.io/docs/ "socket.io")
+
+### Mock ups
+[Home Page Mock up](https://drive.google.com/file/d/1S9bz4C-MQQ2N46O4y4q3ynYx-LYK10wt/view?usp=sharing "Home Page Mock up")
+[Sign up Page](https://drive.google.com/file/d/1S9bz4C-MQQ2N46O4y4q3ynYx-LYK10wt/view?usp=sharing "Sign up Page") *TODO*
+[Sign In](https://drive.google.com/file/d/1S9bz4C-MQQ2N46O4y4q3ynYx-LYK10wt/view?usp=sharing "Sign In") *TODO*
+[Signed in](https://drive.google.com/file/d/1S9bz4C-MQQ2N46O4y4q3ynYx-LYK10wt/view?usp=sharing "Signed in") *TODO*
