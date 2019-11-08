@@ -22,7 +22,7 @@ We will be using this guild [HERE](https://www.dyclassroom.com/howto-mac/how-to-
 2) npm init
 3) Inside directory create a "backend"/"frontend" folder
 4) create an index.js file in both directories
-5) update package.json file.
+5) update package.json file. to work on new directory
 
 
 
@@ -30,3 +30,4 @@ We will be using this guild [HERE](https://www.dyclassroom.com/howto-mac/how-to-
 [Node Documentation](https://nodejs.org/en/docs/ "Node Documentation")
 [NPM Documentation](https://docs.npmjs.com/http:// "NPM Documentation")
 [Iterm 2](https://iterm2.com/ "Iterm 2")
+ADD NODEMON HERE!
